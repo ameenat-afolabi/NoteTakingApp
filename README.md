@@ -7,4 +7,4 @@ that were previously written unless they chose to delete it themselves.
 
 
 ### App Walk-though
-<img src="https://im7.ezgif.com/tmp/ezgif-7-f694cd98d3.gif" width=200><br>
+<img src="https://media.giphy.com/media/ocCV3J28gEKSzeAM0C/giphy.gif" width=200><br>
